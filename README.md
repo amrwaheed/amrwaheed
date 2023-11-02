@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/3mr_waheed" target="blank"><img src="https://img.shields.io/twitter/follow/3mr_waheed?logo=twitter&style=for-the-badge" alt="3mr_waheed" /></a> </p>
 
-- 🔭 I’m currently working on **Corporate Po Admin Banque Misr**
+- 🔭 I’m currently working on **Corporate Platform Banque Misr**
 
 - 🌱 I’m currently learning **nestjs, advanced angular**
 
-- 👯 I’m looking to collaborate on [Engaz CRM](https://demo.engazcrm.co/beta/)
+- 👯 I’m looking to collaborate on [Banque Misr | Corp. Platform](https://digital.banquemisr.com/bmonlinebusiness/customer-login)
 
 - 👨‍💻 All of my projects are available at [https://amrwaheed.netlify.app](https://amrwaheed.netlify.app)
 
-- 💬 Ask me about **angular, nodejs, mongodb, nestjs, TypeORM, MySql**
+- 💬 Ask me about **javascript, angular, nodejs, mongodb, nestjs, TypeORM, MySql**
 
 - 📫 How to reach me **amrwaheed702@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LPNIHxS6yblToj4XzMLdr5u_ltGRbz7W/view?usp=sharing](https://drive.google.com/file/d/1LPNIHxS6yblToj4XzMLdr5u_ltGRbz7W/view?usp=sharing)
+- 📄 Know about my experiences [Amr Waheed CV](https://drive.google.com/file/d/1G98ZxQi4rZnAicQNQDnR3douBhRY_1oj/view?usp=share_link)
 
 - ⚡ Fun fact **I think I'm hardworking and fun**
 
